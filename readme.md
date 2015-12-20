@@ -20,7 +20,7 @@ Multitoad's Wordpress
 
 3. In phpmyadmin: go to "Import" and upload the .sql file that's located in /_sql
 
-4. Go to "SQL" and have a look at the /_sql folder again. There's a file called sql-commands that includes 3 commands you'll need to run in this console. Change 'http://localhost:8888/multitoad/mt-wordpress/' to whatever YOUR URL is before you run each command. Run each line SEPARATELY. phpmyadmin will tell you how many lines were affected after each run.
+4. In phpmyadmin: go to "SQL." Next, have a look at the /_sql folder again. There's a file called sql-commands that includes 3 commands you'll need to run in this console. Change 'http://localhost:8888/multitoad/mt-wordpress/' to whatever YOUR URL is before you run each command. Run each line SEPARATELY. phpmyadmin will tell you how many lines were affected after each run.
 
 5. Refresh your page and make sure everything is working correctly. You should see multitoad.com with an obnoxious amount of broken images on the blog.
 
