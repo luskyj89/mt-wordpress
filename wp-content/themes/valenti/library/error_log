@@ -1,0 +1,2 @@
+[09-Jun-2015 10:40:58 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/multitoa/public_html/wp-content/themes/valenti/library/core.php on line 14
+[09-Jun-2015 10:43:15 America/New_York] PHP Fatal error:  Call to undefined function get_template_directory() in /home/multitoa/public_html/wp-content/themes/valenti/library/cb-tgm.php on line 18
