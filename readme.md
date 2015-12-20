@@ -1,8 +1,6 @@
-/////////////////////
 =====================
-MULTITOAD'S WORDPRESS
+Multitoad's Wordpress
 =====================
-/////////////////////
 
 @author: John Lusky
 @date: 12.19.15
