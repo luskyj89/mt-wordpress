@@ -18,7 +18,7 @@ Multitoad's Wordpress
 1. Find your local URL after you pull the repo from Github. I run a local MAMP server and in my case it ended up being 'http://localhost:8888/multitoad/mt-wordpress/''
 
 2. Access phpmyadmin on your server. If you're rolling with MAMP, you click "Open WebStart page" and click "Tools" in the nav. Make a new database- call it mt-wordpress. You can name it whatever you want but if you use mt-wordpress you don't have to bother with wp-config.
-    -- If you name it something else, go into wp-config.php (root level file) and change the DB_NAME to whatever you used.
+    * If you name it something else, go into wp-config.php (root level file) and change the DB_NAME to whatever you used.
 
 3. In phpmyadmin: go to "Import" and upload the .sql file that's located in /_sql
 
@@ -29,6 +29,6 @@ Multitoad's Wordpress
 
 //// Logging In
 
-/// Append /wp-admin to the end of your URL. This will take you to the login form.
-    -- Username: multitoa
-    -- Password: tasmball987
+* Append /wp-admin to the end of your URL. This will take you to the login form.
+    * Username: multitoa
+    * Password: tasmball987
