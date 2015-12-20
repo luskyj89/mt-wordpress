@@ -6,7 +6,6 @@ Multitoad's Wordpress
 
 //// Database Installation
 
-/// Notes:
 * I've included all the WordPress files you need in the Github repo.
 * Uploads are not included, so all the blog featured images and such will show as broken – no big deal.
 * There is a .sql database file in /_sql that you'll need to import into phpmyadmin.
